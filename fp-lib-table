@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "vga")(type "KiCad")(uri "${KIPRJMOD}/vga.pretty")(options "")(descr ""))
+)

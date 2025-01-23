@@ -1,0 +1,9 @@
+.vscode/*
+backup/*
+build/*
+notes.txt
+gerber/
+*-backups/
+~*
+*.zip
+*.bak
