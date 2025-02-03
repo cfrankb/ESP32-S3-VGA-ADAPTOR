@@ -24,12 +24,16 @@ An adaptor is needed to communicate with the VGA Hardware.
 
 https://vi.aliexpress.com/item/1005005279582020.html
 
+![Image](images/20250202_211146-crop.jpg "icon")
+
 ![Image](images/vga_test.jpg "icon")
 
 ![Image](images/20241221_100637-crop.jpg "icon")
 
 
-Create a resistor ladder wire as follow. Connect all the pins of the same color together.
+### Manually assembled
+
+Create a resistor ladder wire. Connect all the pins of the same color together.
 
 
 | GPIO Pin | Role  | Resistor | VGA Pin |

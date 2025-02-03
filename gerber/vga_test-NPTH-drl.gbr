@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2025-01-21T08:23:09-05:00*%
+%TF.ProjectId,vga_test,7667615f-7465-4737-942e-6b696361645f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-01-21 08:23:09*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,3.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H3*%
+X55000000Y-55000000D03*
+X55000000Y-95000000D03*
+X145000000Y-55000000D03*
+X145000000Y-95000000D03*
+M02*

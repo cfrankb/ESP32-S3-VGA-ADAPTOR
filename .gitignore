@@ -2,7 +2,7 @@
 backup/*
 build/*
 notes.txt
-gerber/
+#gerber/
 *-backups/
 ~*
 *.zip

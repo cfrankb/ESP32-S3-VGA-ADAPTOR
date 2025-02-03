@@ -1,0 +1,11 @@
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-F_Cu.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-B_Cu.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-F_Paste.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-B_Paste.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-F_Silkscreen.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-B_Silkscreen.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-F_Mask.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-B_Mask.gbr'.
+Plotted to '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-Edge_Cuts.gbr'.
+Created Gerber job file '/home/cfrankb/kicad/projects/vga/vga_test4/gerber/vga_test-job.gbrjob'.
+Info: Done.
