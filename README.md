@@ -22,16 +22,16 @@ https://www.aliexpress.com/item/1005004611997111.html
 
 An adaptor is needed to communicate with the VGA Hardware.
 
-https://vi.aliexpress.com/item/1005005279582020.html
-
 ![Image](images/20250202_211146-crop.jpg "icon")
 
 ![Image](images/vga_test.jpg "icon")
 
-![Image](images/20241221_100637-crop.jpg "icon")
 
 
 ### Manually assembled
+
+
+![Image](images/20241221_100637-crop.jpg "icon")
 
 Create a resistor ladder wire. Connect all the pins of the same color together.
 
@@ -59,3 +59,15 @@ Create a resistor ladder wire. Connect all the pins of the same color together.
 | GND      | -     | -        | 5, 10   |
 
 \* If you don't have any 16k Resistor. You can use a similar value such as 20k. The smallest resistor is the most significant and should be roughtly ~500R or higher.
+
+VGA Connector: [DB15 to Dip 2.54mm interface ](https://vi.aliexpress.com/item/1005005279582020.html)
+
+## Demo Project
+
+![Image](images/20241221_100753-crop.jpg "icon")
+
+Gameplay: https://www.youtube.com/watch?v=SPQwWkzFRpU
+
+Source code: [cfrankb/ESP32-S3-VGA-CS3](https://github.com/cfrankb/ESP32-S3-VGA-CS3) 
+
+
