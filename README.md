@@ -8,6 +8,8 @@ To overcome SRAM limitations on the ESP32-S3, the game utilizes a Scanline Compo
 
 This project serves as a bridge between low-level legacy architecture and modern embedded systems. It involved refactoring 16-bit Assembly logic into a structured, object-oriented C++ framework using the ESP-IDF, demonstrating long-term adaptability in software engineering.
 
+Project focus: High-performance 2D graphics and hardware interfacing. (Note: Utilizing community-standard VGA timing libraries to focus on custom drawing routines and hardware adaptor design).
+
 # Encoding
 
 Colors are encoded as unsigned 16bits integer (B5G6R5).
