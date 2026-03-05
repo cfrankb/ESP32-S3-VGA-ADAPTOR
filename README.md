@@ -4,6 +4,8 @@ Transitioning from 1993 x86 Assembly to modern C++ on ESP32-S3 involved re-imple
 
 Implementing a discrete DAC R-2R allows for full control over the signal chain and demonstrates the ability to interface digital MCUs with legacy analog standards without relying on specialized external ICs
 
+To overcome SRAM limitations on the ESP32-S3, the game utilizes a Scanline Composition Engine. Instead of double-buffering the entire screen, sprites and tiles are composited into a single-row offload buffer before being committed to the display surface. This allows for complex transparency and layering without the 300KB+ memory overhead of a back-buffer.
+
 # Encoding
 
 Colors are encoded as unsigned 16bits integer (B5G6R5).
