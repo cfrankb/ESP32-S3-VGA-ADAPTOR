@@ -1,7 +1,5 @@
 # Architectural Shift
 
-Transitioning from 1993 x86 Assembly to modern C++ on ESP32-S3 involved re-implementing low-level memory buffers and interrupt-driven logic while maintaining the original game's timing and deterministic behavior.
-
 Implementing a discrete DAC R-2R allows for full control over the signal chain and demonstrates the ability to interface digital MCUs with legacy analog standards without relying on specialized external ICs
 
 
