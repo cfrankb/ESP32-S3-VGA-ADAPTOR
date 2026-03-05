@@ -5,6 +5,11 @@ Colors are encoded as unsigned 16bits integer (B5G6R5).
 The five (5) lowest bits are red and in accending order of brigtness. The next six (6) bits are green and the last five (5) bits are blue.
 
 
+![Image](images/vga-schematic.png "icon")
+
+
+
+
 # Hardware
 
 ## ESP32-S3
